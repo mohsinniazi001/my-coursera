@@ -165,22 +165,23 @@ h1{
 }
 #head1{
     
-    background-color: pink;
+    background-color: rgba(231, 164, 164, 0.858);
     text-align: center;
     
 
 }
 #head2{
     
-    background-color: rgba(240, 11, 56, 0.568);
+    background-color:indianred;
     
     text-align: center;
+    color: white;
     
     
 }
 #head3{
    
-    background-color:goldenrod;
+    background-color:rgb(249, 243, 182);
    
     text-align: center;
     
